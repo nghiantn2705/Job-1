@@ -80,11 +80,11 @@ width: 100%;
 }
 
 .box-time {
-    border: 1px solid rgb(38, 99, 38);
+    border: 1px solid #013c6f;
     width: 240px;
     height: 60px;
     border-radius: 5px;
-    background-color: rgb(38, 99, 38);
+    background-color: #013c6f;
     color: white;
     padding: 14px;
     margin: 5px auto;
@@ -380,11 +380,11 @@ footer {
     }
 
     .box-time {
-        border: 1px solid rgb(38, 99, 38);
+        border: 1px solid #013c6f;
         width: 165px;
         height: 50px;
         border-radius: 5px;
-        background-color: rgb(38, 99, 38);
+        background-color: #013c6f;
         color: white;
         padding: 8px;
         margin: 5px auto;
@@ -688,11 +688,11 @@ footer {
     }
     
     .box-time {
-        border: 1px solid rgb(38, 99, 38);
+        border: 1px solid #013c6f;
         width: 80px;
         height: 50px;
         border-radius: 5px;
-        background-color: rgb(38, 99, 38);
+        background-color: #013c6f;
         color: white;
         padding: 10px;
         margin: 5px auto;
@@ -802,7 +802,7 @@ footer {
     }
     
     .content-box img {
-        width: 450px;
+        width: 80%;
         margin-top: 24px;
         margin-left: auto;
         margin-right: auto;
@@ -819,9 +819,15 @@ footer {
         text-decoration: none;
         border: 1px solid #448dc0;
         background-color: #448dc0;
-        padding: 8px 80px;
+        width: 100%;
     }
-    
+    .content-box a span{
+        color: #ffffff;
+        text-decoration: none;
+        border: 1px solid #448dc0;
+        background-color: #448dc0;
+        width: 100%;
+    }
     .additional {
         text-align: center;
         margin-top: 12px;
