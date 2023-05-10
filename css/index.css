@@ -689,7 +689,7 @@ footer {
     
     .box-time {
         border: 1px solid #013c6f;
-        width: 80px;
+        width: 100%;
         height: 50px;
         border-radius: 5px;
         background-color: #013c6f;
